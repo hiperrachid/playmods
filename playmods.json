@@ -17,10 +17,10 @@
   "unity_app_id": "xxxx",
   "is_unity_test_mode": true,
   
-  "admob_banner": "xxxx",
-  "admob_interstitial": "xxxx",
-  "admob_native": "xxxx",
-  "admob_rewarded": "xxxx",
+  "admob_banner": "ca-app-pub-7860360556620076/4535882476",
+  "admob_interstitial": "ca-app-pub-7860360556620076/7262952310",
+  "admob_native": "ca-app-pub-7860360556620076/1605918064", 
+  "admob_rewarded": "ca-app-pub-7860360556620076/4253645599",
   
   "facebook_banner": "xxxx",
   "facebook_interstitial": "xxxx",
@@ -28,10 +28,10 @@
   "facebook_rewarded": "xxxx",
   
 
-  "Interstitial": "xxxx",
-  "Banner": "xxxx",
-  "Native": "xxxx",
-  "Rewarded": "xxxx",
+  "Interstitial": "admob",
+  "Banner": "admob",
+  "Native": "admob",
+  "Rewarded": "admob",
   
   
   "clicks_to_show_inter": 1,
