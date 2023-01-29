@@ -49,7 +49,7 @@
 
   "guides": [
 	{
-	 "image": "https://drive.google.com/file/d/1eOpX8cQzLP2DMfzr8bIUuhFfpDf1uODt/view?usp=share_link",
+	 "image": "xxx",
 	 "title": "PlayMods App Introduction",
 	 "text": "PlayMods is a platform with almost every game and app you could ever want to download, with tens of thousands of modded games and apps. Users can also play many games for free! PlayMods mobile App supports the following languages: English, Italian, Turkish, Indonesian, Thai, Chinese, Arabic, Spanish, Portuguese, etc. PlayMods updates games and apps every day, allowing users to experience the latest versions at all times",
 	 "text_two": "Click to enter PlayMods official website playmods.net",
@@ -62,7 +62,7 @@
 	 "BtnTXT": "Click to enter PlayMods"
 	},
 	{
-	 "image": "https://drive.google.com/file/d/1YRaWhwVkaogWNpLJdVMvmrLVC5916utv/view?usp=share_link",
+	 "image": "xxx",
 	 "title": "How to Download PlayMods Android App",
 	 "text": "Some users don't know how to download the official Android app of PlayMods, it's very simple. Next, I will teach you step-by-step how to download the PlayMods Android application.",
 	 "text_two": "1. Click to enter PlayMods official website playmods.net 2. Click the PlayMods Download icon 3. Enter the download page to download PlayMods",
@@ -75,12 +75,11 @@
 	 "BtnTXT": "Click to enter PlayMods"
 	},
 	{
-	 "image": "https://drive.google.com/file/d/1keQo4kU1gvwTjq_ABUkMlLA-eesKTfx1/view?usp=share_link",
+	 "image": "xxx",
 	 "title": "1. Toca Tool",
 	 "text": "The Toca tool can be found in "My". Toca Tools provides Toca players with tools for saving, Toca world map analysis, game strategy and item search.",
-	 "text_two": "2. A Lot of Mod Games
-                  PlayMods provides users with a large number of mod games. PlayMods provides users with many popular mods of the latest version of Minecraft Mod Apk.",
-
+	 "text_two": "2. A Lot of Mod Games PlayMods provides users with a large number of mod games. PlayMods provides users with many popular mods of the latest version of Minecraft Mod Apk.",
+                  
 	 "isLocked": false,
 	 "id": 3,
 	 
@@ -89,7 +88,7 @@
 	 "BtnTXT": "Click to enter PlayMods"
 	},
 	{
-	"image": "https://drive.google.com/file/d/1QsVenOcvK4lEXYqpvB3xipxWtSgCYvmD/view?usp=share_link",
+	"image": "xxx",
 	 "title": "3. Cloud Archive",
 	 "text": "Toca World cloud archive can be activated after binding the PlayMods account. After archiving, ",
 	 "text_two": "players don't have to worry about errors in game archive content after exiting the game. The data will be permanently archived, and there will be a chance to be selected and displayed in the archives of famous generals, and become the guy everyone wants to emulate.",
@@ -102,7 +101,7 @@
 	 "BtnTXT": "Click to enter PlayMods"
 	},
 	{
-	"image": "https://drive.google.com/file/d/1brwMW97ucgHxuRlwXM_zUMP1ZxOwzoWg/view?usp=share_link",
+	"image": "xxx",
 	 "title": "4. Apk/Xapk Installer",
 	 "text": "PlayMods provides Xapk/Apk Installer to you. Usually, when you download an xapk file, you can't install it directly on your phone. With PlayMods installer tool, you can easily install apps with xapk extentions. Simply click on the " Install", and the app will be installed automatically.",
 	 "text_two": "When using other people's archives, all local archives will be overwritten, so please ensure that the local archives have been uploaded to the cloud to ensure that the local archives will not be lost.",
