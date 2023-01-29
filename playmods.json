@@ -17,10 +17,10 @@
   "unity_app_id": "xxxx",
   "is_unity_test_mode": true,
   
-  "admob_banner": "ca-app-pub-7860360556620076/4535882476",
-  "admob_interstitial": "ca-app-pub-7860360556620076/7262952310",
-  "admob_native": "ca-app-pub-7860360556620076/1605918064", 
-  "admob_rewarded": "ca-app-pub-7860360556620076/4253645599",
+  "admob_banner": "ca-app-pub-7559363277809908/7723220965",
+  "admob_interstitial": "ca-app-pub-7559363277809908/8988217087",
+  "admob_native": "ca-app-pub-7559363277809908/8885658199", 
+  "admob_rewarded": "ca-app-pub-7559363277809908/5137984876",
   
   "facebook_banner": "xxxx",
   "facebook_interstitial": "xxxx",
