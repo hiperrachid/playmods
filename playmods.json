@@ -49,12 +49,12 @@
 
   "guides": [
 	{
-	 "image": "https://drive.google.com/uc?export=download&id=1QsVenOcvK4lEXYqpvB3xipxWtSgCYvmD",
+	 "image": "xxxx",
 	 "title": "PlayMods App Introduction",
 	 "text": "How to Download PlayMods Android App",
 	 "text_two": "How to Download PlayMods Android App",
 
-	 "isLocked": false,
+	 "isLocked": true,
 	 "id": 1,
 	 	 
 	 "showBTN": true,
