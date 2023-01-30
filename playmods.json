@@ -22,10 +22,10 @@
   "admob_native": "ca-app-pub-7559363277809908/8885658199",
   "admob_rewarded": "ca-app-pub-7559363277809908/5137984876",
   
-  "facebook_banner": "xxxx",
-  "facebook_interstitial": "xxxx",
-  "facebook_native": "xxxx",
-  "facebook_rewarded": "xxxx",
+  "facebook_banner": "admob",
+  "facebook_interstitial": "admob",
+  "facebook_native": "admob",
+  "facebook_rewarded": "admob",
   
 
   "Interstitial": "admob",
