@@ -67,7 +67,7 @@
 	 "text": "PlayMods provides users with a large number of mod games. PlayMods provides users with many popular mods of the latest version of Minecraft Mod Apk.",
 	 "text_two": "3. Cloud Archive : Toca World cloud archive can be activated after binding the PlayMods account. After archiving, players don't have to worry about errors in game archive content after exiting the game. The data will be permanently archived, and there will be a chance to be selected and displayed in the archives of famous generals, and become the guy everyone wants to emulate.",
 
-	 "isLocked": true,
+	 "isLocked": false,
 	 "id": 2,
 	 	 
 	 "showBTN": false,
