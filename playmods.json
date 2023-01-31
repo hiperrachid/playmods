@@ -49,17 +49,17 @@
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://drive.google.com/uc?export=download&id=1bc5ks20mF5e5Cvg8d_mQXMahDehXjtoL",
+	 "title": "How to Download PlayMods Android App",
+	 "text": "Some users don't know how to download the official Android app of PlayMods, it's very simple. Next, I will teach you step-by-step how to download the PlayMods Android application.",
+	 "text_two": "1. Click to enter PlayMods official website playmods.net - 2. Click the PlayMods Download icon - 3. Enter the download page to download PlayMods - In PlayMods, users can use several PlayMods unique functions.",
 
 	 "isLocked": false,
 	 "id": 1,
 	 	 
 	 "showBTN": true,
-	 "BtnURL": "https://www.youtube.com/watch?v=0nyjRMr0uvs",
-	 "BtnTXT": "Click Here"
+	 "BtnURL": "https://m.playmods.net/en",
+	 "BtnTXT": "Click to enter PlayMods"
 	},
 	{
 	 "image": "xxxx",
