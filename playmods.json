@@ -28,10 +28,10 @@
   "facebook_rewarded": "xxxx",
   
 
-  "Interstitial": "xxxx",
-  "Banner": "xxxx",
-  "Native": "xxxx",
-  "Rewarded": "xxxx",
+  "Interstitial": "admob",
+  "Banner": "admob",
+  "Native": "admob",
+  "Rewarded": "admob",
   
   
   "clicks_to_show_inter": 1,
