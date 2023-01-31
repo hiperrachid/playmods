@@ -28,10 +28,10 @@
   "facebook_rewarded": "xxxx",
   
 
-  "Interstitial": "admob",
-  "Banner": "admob",
-  "Native": "admob",
-  "Rewarded": "admob",
+  "Interstitial": "xxxx",
+  "Banner": "xxxx",
+  "Native": "xxxx",
+  "Rewarded": "xxxx",
   
   
   "clicks_to_show_inter": 1,
@@ -62,17 +62,17 @@
 	 "BtnTXT": "Click to enter PlayMods"
 	},
 	{
-	 "image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://drive.google.com/uc?export=download&id=1NZjIWmaW656IK5VVj2ocISNrTdxFb-gU",
+	 "title": "2. A Lot of Mod Games",
+	 "text": "PlayMods provides users with a large number of mod games. PlayMods provides users with many popular mods of the latest version of Minecraft Mod Apk.",
+	 "text_two": "3. Cloud Archive : Toca World cloud archive can be activated after binding the PlayMods account. After archiving, players don't have to worry about errors in game archive content after exiting the game. The data will be permanently archived, and there will be a chance to be selected and displayed in the archives of famous generals, and become the guy everyone wants to emulate.",
 
 	 "isLocked": true,
 	 "id": 2,
 	 	 
 	 "showBTN": false,
-	 "BtnURL": "xxxx",
-	 "BtnTXT": "xxxx"
+	 "BtnURL": "https://m.playmods.net/en",
+	 "BtnTXT": "Click to enter PlayMods"
 	},
 	{
 	 "image": "xxxx",
